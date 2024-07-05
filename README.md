@@ -1,4 +1,4 @@
-# ![[nf-core/raredisease](docs/images/nf-core-raredisease_logo_light.png#gh-light-mode-only) ![nf-core/raredisease](docs/images/nf-core-raredisease_logo_dark.png#gh-dark-mode-only)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsynapselaboratory.com%2F&psig=AOvVaw2HswlH2hgLQjqqQcnxxWrZ&ust=1720234805818000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC-75j0jocDFQAAAAAdAAAAABAE)
+# !https://www.google.com/url?sa=i&url=https%3A%2F%2Fsynapselaboratory.com%2F&psig=AOvVaw2HswlH2hgLQjqqQcnxxWrZ&ust=1720234805818000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC-75j0jocDFQAAAAAdAAAAABAE
 
 ## Introduction
 
